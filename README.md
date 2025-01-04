@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dhaygude</h1>
-<h3 align="center">A guy building ideas.</h3>
+<h3 align="center">Building ideas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
